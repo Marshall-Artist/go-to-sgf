@@ -1,2 +1,0 @@
-# No external dependencies — uses Python stdlib only
-# Python 3.7+ required
